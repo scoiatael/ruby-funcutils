@@ -9,4 +9,7 @@ Gem::Specification.new do |s|
   s.files       = ["lib/funcutils.rb","lib/funcutils/piper.rb"]
   s.homepage    = ''
   s.license     = 'MIT'
+
+  s.add_development_dependency "rspec",
+    ["~> 3.1"]
 end
