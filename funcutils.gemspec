@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = "Functional and configuration helpers"
   s.authors     = ["Lukasz Czaplinski"]
   s.email       = 'eternal.kadir@gmail.com'
-  s.files       = ["lib/funcutils.rb"]
+  s.files       = ["lib/funcutils.rb","lib/funcutils/piper.rb"]
   s.homepage    = ''
   s.license     = 'MIT'
 end
